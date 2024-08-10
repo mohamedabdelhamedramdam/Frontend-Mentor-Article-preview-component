@@ -89,8 +89,8 @@ body {
   width: 20px;
   height: 20px;
   background-color: var(--Light-Grayish-Blue);
-  mask: url("/icon-share.svg") no-repeat center;
-  -webkit-mask: url("/icon-share.svg") no-repeat center;
+  mask: url("icon-share.svg") no-repeat center;
+  -webkit-mask: url("icon-share.svg") no-repeat center;
 }
 .icon-share {
   padding: 0.7rem;
